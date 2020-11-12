@@ -1,6 +1,4 @@
 {
-  "data": [
-   {
   "data": {
     "brand": {
       "name": "Organização A",
@@ -157,8 +155,6 @@
             }
           ]
         }
-      ]
-    }
   },
   "links": {
     "self": "https://api.banco.com.br/open-banking/products-services/v1/business-accounts",
