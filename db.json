@@ -1,4 +1,5 @@
 {
+ "retorno": {
   "data": {
     "brand": {
       "name": "Organização A",
@@ -170,3 +171,5 @@
     "totalPages": 1
   }
 }
+}
+
